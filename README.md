@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋Welcome to my profile
+A Passionate Information Technology with a knack for developing innovative solutions.Follow my journey and check out my pojects as I grow and learn.
 
 <!--
 **Oarabile24/Oarabile24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
