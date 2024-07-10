@@ -18,4 +18,4 @@ A Passionate Information Technology with a knack for developing innovative solut
 ---
 [![](https://visitcount.itsvg.in/api?id=Oarabile24&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![github-contribution-grid-snake](https://github.com/lisbeth34/lisbeth34/assets/131878280/886e358b-58cc-4706-b7d0-cb6cd58bf5b9)
