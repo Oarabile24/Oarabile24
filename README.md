@@ -4,6 +4,8 @@
 </h1>
 A Passionate Information Technology with a knack for developing innovative solutions.Follow my journey and check out my projects as I grow and learn.
 
+# 💫 About Me:
+🔭 <br>👯 I am Full stack developer intern at Capaciti<br><br>🌱 I’m currently learning other programming languages HTML, Javascript,SQL,Python,Java<br><br>⚡ Reach me at oarabileselekane277@gmail.com
 
 
 # 💻 Tech Stack:
