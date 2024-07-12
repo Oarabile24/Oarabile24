@@ -2,7 +2,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Oarabile+Selekane+!⭐⭐+;+I'm+a+Full-Stack+Developer👩🏻‍💻;" />
 </h1>
-A Passionate Information Technology with a knack for developing innovative solutions.Follow my journey and check out my projects as I grow and learn.
 
 # 💫 About Me:
 🔭 <br>👯 I am Full stack developer intern at Capaciti<br><br>🌱 I’m currently learning other programming languages HTML, Javascript,SQL,Python,Java<br><br>⚡ Reach me at oarabileselekane277@gmail.com
